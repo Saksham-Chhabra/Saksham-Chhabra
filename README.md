@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on **NITH CSE WEBSITE**  
 - 💬 Ask me about **React, Express, and JavaScript**  
 - 📫 How to reach me **s.chhabra2005@gmail.com**  
-- ⚡ Fun fact **I'm Him**  
 
 ---
 
@@ -69,5 +68,4 @@
 
 ---
 
-🔥 **Fun fact:** _I'm Him_ 😎
 
