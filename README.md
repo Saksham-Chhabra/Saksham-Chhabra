@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saksham-chhabra&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-chhabra" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=saksham-chhabra&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
   </a>
@@ -18,41 +14,55 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 **Connect with me:**
 <p align="left">
-  <a href="https://www.linkedin.com/in/saksham-chhabra-2a034a280/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/saksham-chhabra-2a034a280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/sakshamken" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/sakshamken" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">⚙️ Tech Stack:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="40" height="40"/>
-</p>
+### ⚙️ **Tech Stack:**
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> HTML</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> CSS</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> JavaScript</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> React</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> Node.js</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" style="filter: invert(100%)"/> Express.js</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> Python</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> Java</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> C</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> C++</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40"/> PowerShell</td>
+  </tr>
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> Postman</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> Git</td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> Tailwind CSS</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" style="filter: invert(100%)"/> Bootstrap</td>
+  </tr>
+  <tr>
+    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> Figma</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> Linux</td>
+    <td><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/> Framer Motion</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="40" />Bulma</td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📊 **GitHub Stats:**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-chhabra&theme=radical" alt="GitHub Streak" />
 </p>
