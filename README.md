@@ -86,38 +86,7 @@ const saksham = new SakshamChhabra();
 
 ---
 
-## 🎌 **Power Level Chart** | パワーレベル
 
-<div align="center">
-
-| **技術** | **レベル** | **経験値** |
-|:---:|:---:|:---:|
-| **React** | ⭐⭐⭐⭐⭐ | `████████████████████ 95%` |
-| **JavaScript** | ⭐⭐⭐⭐⭐ | `███████████████████░ 90%` |
-| **Express.js** | ⭐⭐⭐⭐⭐ | `██████████████████░░ 85%` |
-| **MongoDB** | ⭐⭐⭐⭐☆ | `████████████████░░░░ 80%` |
-| **Python** | ⭐⭐⭐⭐☆ | `███████████████░░░░░ 75%` |
-| **Node.js** | ⭐⭐⭐⭐⭐ | `██████████████████░░ 88%` |
-
-</div>
-
----
-
-## 🌟 **Special Moves** | 必殺技
-
-<div align="center">
-
-```
-🎯 Full-Stack Development Mastery
-🚀 React Component Architecture
-⚡ RESTful API Design
-🎨 Responsive UI/UX Creation
-🔥 Database Optimization
-💫 Performance Enhancement
-🌸 Clean Code Philosophy
-```
-
-</div>
 
 ---
 
@@ -131,36 +100,4 @@ const saksham = new SakshamChhabra();
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFD93D)](https://instagram.com/sakshamken)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6BCF7F)](mailto:s.chhabra2005@gmail.com)
 
----
 
-### 💭 **Developer Wisdom** | 開発者の知恵
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming" />
-
----
-
-### 🎌 **Current Vibe** | 現在の気分
-<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=FF6B9D" />
-
----
-
-<img src="https://komarev.com/ghpvc/?username=saksham-chhabra&label=Dojo%20Visitors&color=FF6B9D&style=for-the-badge" alt="Profile Views" />
-
-<br/><br/>
-
-**"In the world of code, I am the main character of my own anime!"** ✨🌸
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" height="100" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,5,25&height=120&section=footer&text=Arigatou%20Gozaimasu!&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-
----
-
-<div align="center">
-
-### 🌸 **"Believe in the code that believes in you!"** 🌸
-
-*~ Inspired by the spirit of anime and the power of programming ~*
-
-</div>
