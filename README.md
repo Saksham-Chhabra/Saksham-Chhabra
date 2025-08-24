@@ -13,39 +13,7 @@
 
 </div>
 
-<img align="right" alt="Anime Coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-## 🌟 **About This Code Ninja**
-
-```javascript
-class SakshamChhabra extends Developer {
-    constructor() {
-        super();
-        this.name = "Saksham Chhabra";
-        this.title = "Fullstack Shinobi 🥷";
-        this.location = "India 🇮🇳";
-        this.clan = "Web Development";
-        this.currentQuest = "NITH CSE WEBSITE";
-        this.jutsu = ["React-no-Jutsu", "Express Techniques", "MongoDB Mastery"];
-        this.motto = "Code with the power of a thousand suns! ☀️";
-    }
-
-    getCurrentStatus() {
-        return {
-            learning: "Advanced React Patterns 📚",
-            building: "Epic Web Applications 🏗️",
-            collaborating: "Open to team up! 🤝",
-            gaming: "Coding challenges & anime 🎮"
-        };
-    }
-}
-
-const saksham = new SakshamChhabra();
-```
-
-<br clear="right"/>
-
----
 
 ## ⚔️ **My Coding Arsenal** | 技術スタック
 
