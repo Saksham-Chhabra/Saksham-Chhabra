@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 **Battle Statistics** | 戦闘統計
+## 📊 **Battle Statistics** 
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 📱 **Connect & Team Up** | 接続とチームアップ
+## 📱 **Connect & Team Up** 
 
 <div align="center">
 
