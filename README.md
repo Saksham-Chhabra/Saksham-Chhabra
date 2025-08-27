@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,5,25&height=180&section=header&text=Welcome%20to%20my%20Code%20Dojo!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
 
-# 🎌 **Saksham Chhabra** | コードの侍
+# **Saksham Chhabra** 
 ### `< Fullstack Shinobi />` • **Mastering the Digital Arts**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🌸+React+Sensei+%7C+Express+Master;⚡+JavaScript+Jutsu+Practitioner;🔥+Building+Epic+Web+Experiences;💫+Always+Leveling+Up!" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 
 
-## ⚔️ **My Coding Arsenal** | 技術スタック
+## ⚔️ **Tech Stack** 
 
 <div align="center">
 
