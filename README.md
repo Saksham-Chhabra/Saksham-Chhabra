@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saksham-chhabra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFD93D&text_color=6BCF7F&border_radius=10" height="165"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-chhabra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=6BCF7F&border_radius=10" height="165"/>
 
 <br/>
