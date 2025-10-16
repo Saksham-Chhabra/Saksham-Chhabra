@@ -20,7 +20,7 @@
 <div align="center">
 
 ### 🌸 **Frontend Mastery** 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,typescript,tailwind,bootstrap" />
 
 ### ⚡ **Backend & Database Power**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
@@ -39,7 +39,6 @@
 
 <div align="center">
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-chhabra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=6BCF7F&border_radius=10" height="165"/>
 
 <br/>
@@ -54,10 +53,6 @@
 
 ---
 
-
-
----
-
 ## 📱 **Connect & Team Up** 
 
 <div align="center">
@@ -68,4 +63,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFD93D)](https://instagram.com/sakshamken)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6BCF7F)](mailto:s.chhabra2005@gmail.com)
 
+</div>
 
