@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,docker,kubernetes" />
 
 ### 🔥 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,powershell" />
+<img src="https://skillicons.dev/icons?i=js,tensorflow,java,cpp" />
 
 ### 🛠️ **Tools & Weapons**
 <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode" />
