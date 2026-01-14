@@ -23,7 +23,8 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,typescript,tailwind,bootstrap" />
 
 ### ⚡ **Backend & Database Power**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,docker,kubernetes,nginx" />
+
 
 ### 🔥 **Programming Languages**
 <img src="https://skillicons.dev/icons?i=js,tensorflow,java,cpp" />
